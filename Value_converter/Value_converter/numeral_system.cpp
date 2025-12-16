@@ -13,6 +13,7 @@ void num_syst()
 
 	while (repeat)
 	{
+		error = false;
 		int sum = 0;
 
 		cout << "\nИз какой СИ вы хотите перевести число: \n";
@@ -21,7 +22,12 @@ void num_syst()
 		cout << "3 - Восьмеричная \n";
 		cout << "4 - Двоичная \n";
 
+		cout << "5 - Выйти из программы\n\n";
+		
 		cin >> k;
+		cin.clear();
+		cin.ignore();
+
 		switch (k)
 		{
 		case 1:
@@ -121,15 +127,22 @@ void num_syst()
 			}
 			break;
 		}
-		default:
+		case 5: { 
+			repeat = false; 
+			
+			continue;
+			break;
+		}
+		default: {
 			cout << "Ошибка ввода\n";
 			error = true;
 			break;
 		}
+		}
 
 		if (error == false)
 		{
-			cout << "В какую СИ вы хотите перевеститсь: \n";
+			cout << "В какую СИ вы хотите перевестись: \n";
 			cout << "1 - Шестнадцатеричная \n";
 			cout << "2 - Десятичная \n";
 			cout << "3 - Восьмеричная \n";
@@ -170,5 +183,4 @@ void num_syst()
 		}
 	}
 
-	
 }

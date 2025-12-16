@@ -29,6 +29,8 @@ int main()
 	cout << "10 - Системы счисления" << endl << endl;
 
 	cin >> choose;
+		cin.clear();
+		cin.ignore();
 
 	switch (choose)
 	{

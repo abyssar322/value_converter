@@ -127,7 +127,6 @@
     <ClCompile Include="money_conv.cpp" />
     <ClCompile Include="numeral_system.cpp" />
     <ClCompile Include="nume_syst_toDec.cpp" />
-    <ClCompile Include="num_system_toDec.h" />
     <ClCompile Include="serch_non_zero_el.cpp" />
     <ClCompile Include="to_the_usd_like.cpp" />
     <ClCompile Include="Value_converter.cpp" />
