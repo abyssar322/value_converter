@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\Value_converter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|solutionrelative:Value_converter\\Value_converter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\to_the_usd_like.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|solutionrelative:Value_converter\\to_the_usd_like.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\numeral_system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|solutionrelative:Value_converter\\numeral_system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\found_result.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|solutionrelative:Value_converter\\found_result.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\money_conv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|solutionrelative:Value_converter\\money_conv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\numeral_system.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|solutionrelative:Value_converter\\numeral_system.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\numeral_system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|solutionrelative:Value_converter\\numeral_system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|solutionrelative:Value_converter\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\nume_syst_toDec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|solutionrelative:Value_converter\\nume_syst_toDec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\numeral_system.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|solutionrelative:Value_converter\\numeral_system.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\Value_converter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED3F50C-9237-42AD-9283-13A43030D9DE}|Value_converter\\Value_converter.vcxproj|solutionrelative:Value_converter\\Value_converter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,15 +46,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "nume_syst_toDec.cpp",
-              "DocumentMoniker": "G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\nume_syst_toDec.cpp",
-              "RelativeDocumentMoniker": "Value_converter\\nume_syst_toDec.cpp",
-              "ToolTip": "G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\nume_syst_toDec.cpp",
-              "RelativeToolTip": "Value_converter\\nume_syst_toDec.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAEAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "to_the_usd_like.cpp",
+              "DocumentMoniker": "G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\to_the_usd_like.cpp",
+              "RelativeDocumentMoniker": "Value_converter\\to_the_usd_like.cpp",
+              "ToolTip": "G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\to_the_usd_like.cpp",
+              "RelativeToolTip": "Value_converter\\to_the_usd_like.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-15T10:35:37.199Z",
+              "WhenOpened": "2025-12-21T20:42:45.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "found_result.cpp",
+              "DocumentMoniker": "G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\found_result.cpp",
+              "RelativeDocumentMoniker": "Value_converter\\found_result.cpp",
+              "ToolTip": "G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\found_result.cpp",
+              "RelativeToolTip": "Value_converter\\found_result.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T20:42:46.879Z",
               "EditorCaption": ""
             },
             {
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "numeral_system.h",
               "DocumentMoniker": "G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\numeral_system.h",
               "RelativeDocumentMoniker": "Value_converter\\numeral_system.h",
@@ -87,33 +104,33 @@
               "RelativeDocumentMoniker": "Value_converter\\money_conv.cpp",
               "ToolTip": "G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\money_conv.cpp",
               "RelativeToolTip": "Value_converter\\money_conv.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAuwMIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-14T11:05:38.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "numeral_system.cpp",
               "DocumentMoniker": "G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\numeral_system.cpp",
               "RelativeDocumentMoniker": "Value_converter\\numeral_system.cpp",
               "ToolTip": "G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\numeral_system.cpp",
               "RelativeToolTip": "Value_converter\\numeral_system.cpp",
-              "ViewState": "AgIAABMAAAAAAAAAAAAowDAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAowLYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-14T10:45:52.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Value_converter.cpp",
               "DocumentMoniker": "G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\Value_converter.cpp",
               "RelativeDocumentMoniker": "Value_converter\\Value_converter.cpp",
               "ToolTip": "G:\\study\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041E\u0441\u043D\u043E\u0432\u044B \u041F\u0418\\\u041B\u0410\u0411\u0410 12 \u041F\u0420\u041E\u0415\u041A\u0422\\Value_converter\\Value_converter\\Value_converter.cpp",
               "RelativeToolTip": "Value_converter\\Value_converter.cpp",
-              "ViewState": "AgIAADwAAAAAAAAAAAAewF8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-14T10:45:13.945Z",
               "EditorCaption": ""

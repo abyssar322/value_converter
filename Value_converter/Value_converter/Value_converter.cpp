@@ -28,6 +28,8 @@ int main()
 	cout << "9 - Мощность" << endl;
 	cout << "10 - Системы счисления" << endl << endl;
 
+	cout << "11 - Выход из программы" << endl << endl;
+
 	cin >> choose;
 		cin.clear();
 		cin.ignore();
@@ -85,6 +87,14 @@ int main()
 		num_syst();
 		break;
 	}
+
+	case 11: {
+		repeat = false;
+
+		continue;
+		break;
+	}
+
 	default:
 	{
 		cout << "Ошибка ввода:";

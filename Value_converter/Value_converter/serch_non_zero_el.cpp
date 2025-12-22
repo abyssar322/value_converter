@@ -6,13 +6,16 @@ int search_first_non_zero(char arr[])
 	while (flag == false)
 	{
 
-		if (arr[i] != '0')
+		if (arr[i] == '0' || arr[i] == '-')
 		{
+			i++;
+			continue;
+		}
+		else {
 			flag = true;
 			pos1 = i;
 			break;
 		}
-		i++;
 	}
 	return pos1;
 }

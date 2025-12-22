@@ -22,7 +22,7 @@ void money_conv()
 
 	while (repeat)
 	{
-		double to_usd, result;
+		double to_usd, result = 0;
 		double money;
 		bool error = false;
 
@@ -36,8 +36,12 @@ void money_conv()
 		cout << "7 - Канадский доллар CAD \n\n";
 
 		cout << "8 - Информация о курсе доллара USD \n\n";
-
+		
+		cout << "9 - Выйти из функции\n\n";
 		cin >> k;
+		cin.clear();
+		cin.ignore();
+
 		switch (k)
 		{
 		case 1:
@@ -90,19 +94,24 @@ void money_conv()
 		}
 		case 8:
 		{
-			cout << "\nUSD = " << usd << endl;
-			cout << "EUR = " << eur << endl;
-			cout << "BYN = " << byn << endl;
-			cout << "RUB = " << rub << endl;
-			cout << "GBP = " << gpb << endl;
-			cout << "JPY = " << jpy << endl;
-			cout << "CAD = " << cad << endl;
+			cout << "\nUSD = " << usd << " USD" << endl;
+			cout << "EUR = " << eur << " USD" << endl;
+			cout << "BYN = " << byn << " USD" << endl;
+			cout << "RUB = " << rub << " USD" << endl;
+			cout << "GBP = " << gpb << " USD" << endl;
+			cout << "JPY = " << jpy << " USD" << endl;
+			cout << "CAD = " << cad << " USD" << endl;
 			continue;
 		}
 
+		case 9: {
+			repeat = false;
+			continue;
+			break;
+		}
 
 		default:
-			cout << "Ошибка ввода"; error = true	; break;
+			cout << "\nОшибка ввода\n\n"; error = true; break;
 			break;
 		}
 
@@ -163,7 +172,7 @@ void money_conv()
 		}
 		default:
 		{
-			cout << "Ошибка ввода";
+			cout << "\nОшибка ввода"; repeat = false; continue;
 		}
 		}
 		cout << "\nРезультат вычисления равен: " << result;
@@ -175,7 +184,12 @@ void money_conv()
 		cout << "Хотите ли вы ещё раз воспользоваться этой функцией\n1 - Да \n2 - Нет  \n\n"; cin >> k;
 		switch (k)
 		{
+		case 1: break;
 		case 2: repeat = false; break;
+		default:
+		{
+			cout << "Ошибка ввода"; repeat = false; break;
+		}
 		}
 	}
 }

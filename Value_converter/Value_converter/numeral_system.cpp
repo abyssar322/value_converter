@@ -6,7 +6,6 @@ void num_syst()
 	using namespace std;
 
 	const int size = 100;
-
 	bool error = false, repeat = true;
 	int k, num_syst = 0, start_value;
 	char res_str[size], start_str[size];
@@ -22,7 +21,7 @@ void num_syst()
 		cout << "3 - Восьмеричная \n";
 		cout << "4 - Двоичная \n";
 
-		cout << "5 - Выйти из программы\n\n";
+		cout << "5 - Выйти из функции\n\n";
 		
 		cin >> k;
 		cin.clear();
@@ -34,7 +33,7 @@ void num_syst()
 		{
 			num_syst = 16;
 
-			cout << "Введите число, которое вы хотите преобразовать: "; cin >> start_str;
+			cout << "Введите положительное число, которое вы хотите преобразовать: "; cin >> start_str;
 
 			int frst_non_zero = search_first_non_zero(start_str);
 
@@ -60,7 +59,7 @@ void num_syst()
 		{
 			num_syst = 10;
 
-			cout << "Введите число, которое вы хотите преобразовать: "; cin >> start_str;
+			cout << "Введите положительное число, которое вы хотите преобразовать: "; cin >> start_str;
 
 			int frst_non_zero = search_first_non_zero(start_str);
 
@@ -84,7 +83,7 @@ void num_syst()
 		{
 			num_syst = 8;
 
-			cout << "Введите число, которое вы хотите преобразовать: "; cin >> start_str;
+			cout << "Введите положительное число, которое вы хотите преобразовать : "; cin >> start_str;
 
 			int frst_non_zero = search_first_non_zero(start_str);
 
@@ -129,7 +128,6 @@ void num_syst()
 		}
 		case 5: { 
 			repeat = false; 
-			
 			continue;
 			break;
 		}
@@ -167,6 +165,10 @@ void num_syst()
 				_itoa_s(sum, res_str, 2);
 				break;
 			}
+			default:
+			{
+				cout << "Ошибка ввода"; repeat = false; continue;
+			}
 			}
 
 			cout << "Результат преобразования: \n";
@@ -179,8 +181,14 @@ void num_syst()
 		cout << "Хотите ли вы ещё раз воспользоваться этой функцией\n1 - Да \n2 - Нет\n"; cin >> k;
 		switch (k)
 		{
+		case 1: break;
 		case 2: repeat = false; break;
+		default:
+		{
+			cout << "Ошибка ввода"; repeat = false; break;
 		}
+		}
+		
 	}
 
 }
