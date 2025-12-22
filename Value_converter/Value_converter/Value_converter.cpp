@@ -107,9 +107,17 @@ int main()
 	cout << "Хотите ли вы ещё раз воспользоваться программой\n1 - Да \n2 - Нет\n\n"; cin >> choose;
 	switch (choose)
 	{
+	case 1: break;
 	case 2: repeat = false; break;
+	default: {
+		cout << "\nОшибка ввода\n\n";
+		break;
 	}
 	}
+	
+	}
+
+	system("pause");
 
 	return 0;
 }
