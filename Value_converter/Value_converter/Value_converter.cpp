@@ -60,6 +60,7 @@ int main()
 
 	case 5:
 	{
+		Weight_conv();
 		break;
 	}
 
@@ -81,6 +82,7 @@ int main()
 
 	case 9:
 	{
+		Power_conv();
 		break;
 	}
 

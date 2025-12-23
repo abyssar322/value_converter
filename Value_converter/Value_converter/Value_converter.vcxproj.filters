@@ -46,6 +46,18 @@
     <Filter Include="Header Files\speed_h">
       <UniqueIdentifier>{1d37c07b-3350-4b60-91fc-2e30afcec917}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\power_h">
+      <UniqueIdentifier>{ae209827-c4a6-4538-99bc-64d7fa02e20e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\weight_h">
+      <UniqueIdentifier>{348164ea-8d37-4e32-bf74-a0eff97496a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\power">
+      <UniqueIdentifier>{450c0589-b0b6-453e-801c-748372153bf0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\weight">
+      <UniqueIdentifier>{15b637d1-f247-46e1-af6f-e502dc44af7b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="nume_syst_toDec.cpp">
@@ -93,6 +105,12 @@
     <ClCompile Include="Speed_conv.cpp">
       <Filter>Source Files\area_</Filter>
     </ClCompile>
+    <ClCompile Include="weight.cpp">
+      <Filter>Source Files\weight</Filter>
+    </ClCompile>
+    <ClCompile Include="power.cpp">
+      <Filter>Source Files\power</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">
@@ -115,6 +133,12 @@
     </ClInclude>
     <ClInclude Include="Speed_conv.h">
       <Filter>Header Files\speed_h</Filter>
+    </ClInclude>
+    <ClInclude Include="weight.h">
+      <Filter>Header Files\weight_h</Filter>
+    </ClInclude>
+    <ClInclude Include="power.h">
+      <Filter>Header Files\power_h</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

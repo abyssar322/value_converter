@@ -131,6 +131,7 @@
     <ClCompile Include="money_conv.cpp" />
     <ClCompile Include="numeral_system.cpp" />
     <ClCompile Include="nume_syst_toDec.cpp" />
+    <ClCompile Include="power.cpp" />
     <ClCompile Include="pressure_conv.cpp" />
     <ClCompile Include="serch_non_zero_el.cpp" />
     <ClCompile Include="Speed_conv.cpp" />
@@ -138,6 +139,7 @@
     <ClCompile Include="to_the_Pa_like.cpp" />
     <ClCompile Include="to_the_usd_like.cpp" />
     <ClCompile Include="Value_converter.cpp" />
+    <ClCompile Include="weight.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Area_conv.h" />
@@ -145,8 +147,10 @@
     <ClInclude Include="length_conv.h" />
     <ClInclude Include="money_conv.h" />
     <ClInclude Include="numeral_system.h" />
+    <ClInclude Include="power.h" />
     <ClInclude Include="pressure_conv.h" />
     <ClInclude Include="Speed_conv.h" />
+    <ClInclude Include="weight.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
