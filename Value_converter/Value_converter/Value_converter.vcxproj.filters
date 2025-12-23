@@ -58,6 +58,18 @@
     <Filter Include="Source Files\weight">
       <UniqueIdentifier>{15b637d1-f247-46e1-af6f-e502dc44af7b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\volume">
+      <UniqueIdentifier>{11f4ff85-8753-401a-9eee-a02f0194b2e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\volume_h">
+      <UniqueIdentifier>{adcaf6cd-5832-4af4-bfab-fac7afa57820}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\temperature_h">
+      <UniqueIdentifier>{ee501449-ecc3-44c0-af1c-601316c689e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\temperature">
+      <UniqueIdentifier>{e94d1ea6-a84e-4d74-812d-1429973aad1a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="nume_syst_toDec.cpp">
@@ -111,6 +123,12 @@
     <ClCompile Include="power.cpp">
       <Filter>Source Files\power</Filter>
     </ClCompile>
+    <ClCompile Include="volume.cpp">
+      <Filter>Source Files\volume</Filter>
+    </ClCompile>
+    <ClCompile Include="temperature.cpp">
+      <Filter>Source Files\temperature</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">
@@ -139,6 +157,12 @@
     </ClInclude>
     <ClInclude Include="power.h">
       <Filter>Header Files\power_h</Filter>
+    </ClInclude>
+    <ClInclude Include="volume.h">
+      <Filter>Header Files\volume_h</Filter>
+    </ClInclude>
+    <ClInclude Include="temperature.h">
+      <Filter>Header Files\temperature_h</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

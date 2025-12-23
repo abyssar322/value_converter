@@ -13,9 +13,6 @@ int main()
 
 	while (repeat)
 	{
-
-	
-
 	cout << "К какой функции вы хотите обратиться: \n"; 
 	cout << "1 - Валюты" << endl;
 	cout << "2 - Длина" << endl;
@@ -50,11 +47,13 @@ int main()
 
 	case 3:
 	{
+		Area_conv();
 		break;
 	}
 
 	case 4:
 	{
+		volcalculation();
 		break;
 	}
 
@@ -66,11 +65,13 @@ int main()
 
 	case 6:
 	{
+		tempcalculation();
 		break;
 	}
 
 	case 7:
 	{
+		Speed_conv();
 		break;
 	}
 

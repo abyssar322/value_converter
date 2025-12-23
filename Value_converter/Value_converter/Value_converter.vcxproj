@@ -135,10 +135,12 @@
     <ClCompile Include="pressure_conv.cpp" />
     <ClCompile Include="serch_non_zero_el.cpp" />
     <ClCompile Include="Speed_conv.cpp" />
+    <ClCompile Include="temperature.cpp" />
     <ClCompile Include="to_the_m_like.cpp" />
     <ClCompile Include="to_the_Pa_like.cpp" />
     <ClCompile Include="to_the_usd_like.cpp" />
     <ClCompile Include="Value_converter.cpp" />
+    <ClCompile Include="volume.cpp" />
     <ClCompile Include="weight.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -150,6 +152,8 @@
     <ClInclude Include="power.h" />
     <ClInclude Include="pressure_conv.h" />
     <ClInclude Include="Speed_conv.h" />
+    <ClInclude Include="temperature.h" />
+    <ClInclude Include="volume.h" />
     <ClInclude Include="weight.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
