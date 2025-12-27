@@ -20,15 +20,22 @@ void Speed_conv() {
         double base_val, result = 0, value;
         bool error = false;
 
+        cout << "\n--- КОНВЕРТЕР СКОРОСТИ ---\n";
         cout << "\nВыберите исходную единицу скорости:\n";
         cout << "1 - Метры в секунду (м/с)\n2 - Километры в час (км/ч)\n";
         cout << "3 - Узлы (kn)\n";
-        cout << "4 - Число Маха (M)\n";
+        cout << "4 - Число Маха (M)\n\n";
+        cout << "5 - Выйти из функции\n";
         cin >> k;
         cin.clear();
         cin.ignore();
 
-        if (k < 1 || k > 4) { cout << "Ошибка ввода\n"; break; }
+        if (k < 1 || k > 5) { cout << "Ошибка ввода\n"; break; }
+        if (k == 5) {
+            repeat = false;
+            continue;
+            break;
+        }
 
         cout << "Введите значение: "; cin >> value;
 

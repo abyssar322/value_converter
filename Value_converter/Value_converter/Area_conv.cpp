@@ -19,14 +19,19 @@ void Area_conv() {
     while (repeat) {
         double base_val, result = 0, value;
         bool error = false;
-
+        cout << "\n--- КОНВЕРТЕР ПЛОЩАДИ ---\n";
         cout << "\nВыберите исходную единицу площади:\n";
-        cout << "1 - Кв. метры\n2 - Гектары\n3 - Акры\n4 - Кв. километры\n";
+        cout << "1 - Кв. метры\n2 - Гектары\n3 - Акры\n4 - Кв. километры\n\n5 - Выйти из функции\n";
         cin >> k;
         cin.clear();
         cin.ignore();
 
-        if (k < 1 || k > 4) { cout << "Ошибка ввода\n"; break; }
+        if (k < 1 || k > 5) { cout << "Ошибка ввода\n"; break; }
+        if (k == 5) {
+            repeat = false;
+            continue;
+            break;
+        }
 
         cout << "Введите значение: "; cin >> value;
 

@@ -26,6 +26,7 @@ void money_conv()
 		double money;
 		bool error = false;
 
+		cout << "\n--- КОНВЕРТЕР ВАЛЮТ ---\n";
 		cout << "\nИз какой валюты вы хотите перевестись: \n";
 		cout << "1 - Белорусский рубль BYN \n";
 		cout << "2 - Российский рубль RUB \n";
